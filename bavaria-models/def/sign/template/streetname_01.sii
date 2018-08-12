@@ -1,0 +1,13 @@
+SiiNunit
+{
+sign_template : _nameless.29c.033c.b160 {
+ template_name: streetname_01
+ model_name: airwalk1
+ stand_model_name: ""
+ traffic_rule: null
+ boards: 0
+ items: 0
+ dynamic_attributes: 0
+}
+
+}

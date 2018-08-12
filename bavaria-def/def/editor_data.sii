@@ -1,0 +1,47 @@
+SiiNunit
+{
+editor_data : .edit_data {
+
+	autosave_interval: 15 #minutes
+	autosave_notify_interval: 10 #seconds
+
+	startpos_model: "/vehicle/ai/focus_2009/lod.pmd"
+	startpos_rotate_speed: 16.0
+
+	stamp_count_warning: 40
+	road_length_warning: 330
+
+	free_camera_uplift: 8.5
+	sub_mode_types[]: 2 #road_item
+	sub_mode_types[]: 3 #prefab_item
+	sub_mode_types[]: 1 #buildings_item"
+	sub_mode_types[]: 4 #model_item"
+	sub_mode_types[]: 35 #sign_item"
+	sub_mode_types[]: 14 #animated_model_item"
+	sub_mode_types[]: 27 #walker_item"
+	sub_mode_types[]: 33 #trigger_item"
+	sub_mode_types[]: 7 #cut_plane_item"
+	sub_mode_types[]: 8 #mover_item"
+	sub_mode_types[]: 11 #city_item"
+	sub_mode_types[]: 10 #no_weather_item"
+	sub_mode_types[]: 12 #hinge_item"
+	sub_mode_types[]: 17 #map_overlay_item"
+	sub_mode_types[]: 20 #sound_item"
+	sub_mode_types[]: 18 #ferry_item"
+	sub_mode_types[]: 22 #camera_point_item"
+	sub_mode_types[]: 37 #traffic_area_item"
+	sub_mode_types[]: 38 #bezier patch"
+
+	map_import_offset: (-43402, 0, -28089)
+
+	bcg_map_name[]: "/map/bavaria.mbd"
+	bcg_material[]: "/material/editor/bavaria.mat"
+	bcg_size_x[]: 207656
+	bcg_size_y[]: 174375
+	bcg_offset_x[]: 0
+	bcg_offset_y[]: 0
+	
+@include "/custom/editor_data.sii"
+	
+}
+}

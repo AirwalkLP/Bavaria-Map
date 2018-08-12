@@ -1,0 +1,25 @@
+SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "city" for "/def/city.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+sign_model : sign.airwalk1 {
+
+	sign_name: "de_streetname_400"
+
+	model_desc: "/model/sign/street/de/de_streetname_400.pmd"
+	look_name: default
+	category: "signs/de"
+	editable: true	
+
+	dynamic: false
+	distance_type: 2
+	mass: 100
+}
+
+}
