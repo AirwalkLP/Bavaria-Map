@@ -4,8 +4,10 @@
 Städte:
 
 -Weiden i.d.Opf
+-Neustadt an der Waldnaab
+-Altenstadt an der Waldnaab
 -Remmelberg
--Altenstadt
+-Oedenthal
 
 
 Straßen:
@@ -16,4 +18,4 @@ Straßen:
 [red]Vier DLC´s (Going East, Scandinavia, Vive La France & Italia) sind nötig für diese Map.
 
 [normal]For more information, check our website:
-[blue]http://www.ets2-companymanager.de
+[blue]Website folgt
